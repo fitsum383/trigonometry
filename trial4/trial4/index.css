@@ -131,7 +131,7 @@ margin:auto;
 html body{
   margin: 0px;
   height: 100%;
-  background-image: url(./R.jpg);
+  background-image: url(/R.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
